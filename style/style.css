@@ -67,7 +67,7 @@ header nav.menu-desktop a {
 .menu-desktop a.btn-contato{
     padding: 10px 20px;
     border-radius: 5px;
-    background-color:rgb(51, 182, 221);
+    background-color:#993399;
     color: white;
 }
 
@@ -107,7 +107,7 @@ header nav.menu-desktop a {
     margin: 20px auto;
     font-size: 20px;
     padding: 10px 10px;
-    background-color:rgb(51, 182, 221);
+    background-color: #993399;
     color: white;
     border: 0;
     cursor: pointer;
