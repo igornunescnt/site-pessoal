@@ -138,16 +138,17 @@ header nav.menu-desktop a {
 .sobre{
     height: 500px;
     margin-bottom: 80px;
-    background-image: url(../img/section.png);
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-image: linear-gradient(to right,rgb(0, 0, 0),rgb(27, 68, 81));
 }
 
 .sobre .container{
+    background-image: url(../img/section.png);
+    background-size: cover;
+    background-repeat: no-repeat;
     display: flex;
     justify-content:center ;
     align-items: center;
-    max-width: 1000px;
+    width: 100%;
     margin: 0 auto;
 }
 
