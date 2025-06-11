@@ -2,7 +2,7 @@
 
 Meu portfólio profissional como desenvolvedor web, onde apresento meus projetos, habilidades e formas de contato. Construído para destacar minha trajetória na tecnologia e facilitar conexões profissionais.
 
-🌐 Acesse aqui: [igornunescnt.github.io/site-pessoal](https://igornunescnt.github.io/site-pessoal/)
+🌐 Acesse aqui: [igornunescnt.github.io/site-pessoal](https://igornunescnt.github.io/)
 
 ---
 
