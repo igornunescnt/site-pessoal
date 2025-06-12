@@ -47,7 +47,7 @@ header .logo h1{
 }
 
 header .logo span{
-    color:rgb(44, 113, 134) ;
+    color:#0541ba;
 }
 
 header nav{
@@ -67,7 +67,7 @@ header nav.menu-desktop a {
 .menu-desktop a.btn-contato{
     padding: 10px 20px;
     border-radius: 5px;
-    background-color:#993399;
+    background-color:#0541ba;
     color: white;
 }
 
@@ -84,15 +84,16 @@ header nav.menu-desktop a {
     flex-direction: column;
 }
 
-.cto-hero h1{
-    margin: 20px 0;
+.destaque{
     font-size: 50px;
-    text-align: center;
-    color: white;
+    color: #0541ba;
 }
 
-.cto-hero span{
-    color:rgb(44, 113, 134) ;
+.cto-hero h1{
+    margin: 20px 0;
+    font-size: 36px;
+    text-align: center;
+    color: white;
 }
 
 .cto-hero p {
@@ -103,14 +104,30 @@ header nav.menu-desktop a {
     text-align: center;
 }
 
+#text-cto{
+    opacity: 0;
+    transition: all .5s ease-in;
+}
+
+#text-cto.show{
+    opacity: 1;
+}
+
 .cto-hero button{
     margin: 20px auto;
     font-size: 20px;
-    padding: 10px 10px;
-    background-color: #993399;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #0541ba;
     color: white;
     border: 0;
     cursor: pointer;
+}
+
+.cto-hero button:hover{
+    transition: all ease-in-out 1s;
+    transform: scale(1.03);
+    background-color: #177001;
 }
 
 .services-hero{
